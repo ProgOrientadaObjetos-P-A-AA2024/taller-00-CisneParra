@@ -19,6 +19,9 @@ public class Demo {
     public static void main(String[] args) {
         System.out.printf("%scon %d\n",Mensaje.obtenerMensaje()
                 ,Informacion.obtenerHabitantes());
+        // Despues de importar los paquetes con sus respectivas clases procedí
+        // a llamar a las funciones correspondientes formando el mensaje que 
+        // nos pide la orden imprimiendo en el proceso con un printf.
         
     }
     
